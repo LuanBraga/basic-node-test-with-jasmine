@@ -1,4 +1,4 @@
-const Account = require('/home/luanbraga/Learn/basic-node-test/main.js');
+const Account = require('/home/luanbraga/Learn/basic-node-test-with-jasmine/main.js');
 
 describe('Testing Account Object', () => {
     let account;
